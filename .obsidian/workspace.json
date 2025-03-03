@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "未命名.md",
+=======
+                "file": "欢迎.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "未命名"
+=======
+              "title": "欢迎"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -182,11 +190,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e721bf396f204f09",
+  "active": "4daf7a9bd30c80f9",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "欢迎.md",
     "未命名.md",
     "创建一个新的文件试试看.md",
     "嘻嘻嘻.md"
+=======
+    "创建一个新的文件试试看.md",
+    "欢迎.md"
+>>>>>>> Stashed changes
   ]
 }
